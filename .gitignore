@@ -1,0 +1,6 @@
+node_modules/
+app/dist/
+app/dist-single/
+viideo grabacion pantalla/
+*.mp4
+*.mov
